@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portal Pengajuan Kredit Kendaraan — PT. JKL</title>
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
+</head>
+<body class="bg-[#F8FAFC] text-slate-900 antialiased">
+    <div id="app"></div>
+</body>
+</html>
+
